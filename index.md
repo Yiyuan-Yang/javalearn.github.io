@@ -29,6 +29,21 @@ install JDK from [here](https://www.oracle.com/java/technologies/downloads/#jdk1
   2. type command: java -version
 - download notepad++ [here](https://notepad-plus-plus.org/downloads/v8.2.1/)
 
+## My first code
+- create a new folder to save code
+- create a new java file
+  - file end as .java
+  - eg: Hello.java
+
+```markdown
+public class Hello{
+	public static void main(String[] args){
+		System.out.print("Hello World!");
+	}
+}
+```
+Then open cmd, change path to the location of Hello.java, run command: javac Hello.java.
+If no error generated, then run java Hello, the cmd will print "Hello World!" on the screen.
 
 
 
