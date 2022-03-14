@@ -24,6 +24,10 @@ cheat sheet: <https://wordpress.com/support/markdown-quick-reference/>
 
 ## Java Environment
 install JDK from [here](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)
+- test JDK environment
+  1. open cmd
+  2. type command: java -version
+- download notepad++
 
 
 
