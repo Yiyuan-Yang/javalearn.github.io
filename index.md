@@ -19,6 +19,7 @@ cheat sheet: <https://wordpress.com/support/markdown-quick-reference/>
 - JDK: Java Development Kit
 - JRE: java Runtime Environment
 - JVM: Java Virtual Machine
+
 **JRE is included in JDK**
 
 
