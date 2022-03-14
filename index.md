@@ -7,7 +7,7 @@ You can use the [editor on GitHub](https://github.com/Yiyuan-Yang/yiyuan.github.
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-cheat sheet: [Link](https://wordpress.com/support/markdown-quick-reference/)
+cheat sheet: [https://wordpress.com/support/markdown-quick-reference/](url)
 Syntax highlighted code block
 
 # Header 1
