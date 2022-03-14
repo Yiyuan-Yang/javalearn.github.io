@@ -27,7 +27,7 @@ install JDK from [here](https://www.oracle.com/java/technologies/downloads/#jdk1
 - test JDK environment
   1. open cmd
   2. type command: java -version
-- download notepad++
+- download notepad++ [here](https://notepad-plus-plus.org/downloads/v8.2.1/)
 
 
 
