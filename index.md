@@ -23,7 +23,7 @@ cheat sheet: <https://wordpress.com/support/markdown-quick-reference/>
 **JRE is included in JDK**
 
 ## Java Environment
-instarr JDK from [here](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)
+install JDK from [here](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)
 
 
 
