@@ -35,7 +35,7 @@ install JDK from [here](https://www.oracle.com/java/technologies/downloads/#jdk1
   - file end as .java
   - eg: Hello.java
 
-```markdown
+```java
 public class Hello{
 	public static void main(String[] args){
 		System.out.print("Hello World!");
