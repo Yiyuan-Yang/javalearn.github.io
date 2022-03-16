@@ -53,7 +53,8 @@ If no error generated, then run java Hello, the cmd will print "Hello World!" on
 - Block comment
 - Document comment
 <img src="https://github.com/Yiyuan-Yang/javalearn.github.io/blob/gh-pages/comment.png" width="50%" height="50%">
-
+- interesting comment
+<img src="https://github.com/Yiyuan-Yang/javalearn.github.io/blob/gh-pages/name_comment.png" width="50%" height="50%">
 
 
 
