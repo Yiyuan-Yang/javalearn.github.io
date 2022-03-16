@@ -89,7 +89,27 @@ public class Hello{
 	- Arrays
 	- String, Interface
 
-
+```java
+public class data_type {
+    public static void main(String[] args) {
+        // 8 kinds of data type
+        int num1 = 9;
+        byte num2 = 91;
+        short num3 = 30;
+        long num4 = 30L; // sometimes add L at the end to show as long
+        // float
+        float num5 = 9.1F;
+        double num6 = 3.14159265358;
+        //char only one char
+        char name1 = 'Z';
+        //sting many chars
+        String name2 = "abcdefg";
+        //boolean
+        boolean b1 = true;
+        boolean b2 = false;
+    }
+}
+```
 
 
 
