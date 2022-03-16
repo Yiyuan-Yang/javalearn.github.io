@@ -46,9 +46,13 @@ Then open cmd, change path to the location of Hello.java, run command: javac Hel
 If no error generated, then run java Hello, the cmd will print "Hello World!" on the screen.
 
 ## Install IDEA
-[download IDEA](https://www.jetbrains.com/)
+[download IDEA](https://www.jetbrains.com/idea/)
 
-
+### comments:
+- Line comment
+- Block comment
+- Document comment
+![]()
 
 
 
