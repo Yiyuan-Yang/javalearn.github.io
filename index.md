@@ -58,7 +58,18 @@ If no error generated, then run java Hello, the cmd will print "Hello World!" on
 
 <img src="https://github.com/Yiyuan-Yang/javalearn.github.io/blob/gh-pages/name_comment.png" width="50%" height="50%">
 
+### Identifier
 
+```java
+public class Hello{
+	public static void main(String[] args){
+	// every identifier should be started at letters (A-Z, a-a), $ or _
+		String teacher = "Yiyuan";
+		String $teacher = "Yiyuan";
+		String _teacher = "Yiyuan";
+	}
+}
+```
 
 
 
