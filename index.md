@@ -64,6 +64,7 @@ If no error generated, then run java Hello, the cmd will print "Hello World!" on
 public class Hello{
 	public static void main(String[] args){
 	// every identifier should be started at letters (A-Z, a-a), $ or _
+	// upper/lower cases sensitive
 		String teacher = "Yiyuan";
 		String $teacher = "Yiyuan";
 		String _teacher = "Yiyuan";
