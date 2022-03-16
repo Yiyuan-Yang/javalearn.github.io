@@ -71,8 +71,23 @@ public class Hello{
 	}
 }
 ```
-
-
+### data type
+- primitive type
+	- numeric
+		- integer
+			- byte(1 byte): -128 ~ 127
+			- short(2 bytes): -32768 ~ 32767
+			- int(4 bytes): -2147483648 ~ 2147483647
+			- long(8 bytes)
+		- float
+			- float(4 bytes)
+			- double(8 bytes)
+		- char(2 bytes)
+	- boolean(1 byte): only true or false
+- reference type
+	- class
+	- Arrays
+	- String, Interface
 
 
 
