@@ -111,7 +111,13 @@ public class data_type {
 }
 ```
 
+**PS**
 
+- bit(b), byte(B)
+- 1 B = 8 b
+- 1 KB = 1024 B
+- 1 M = 1024 KB
+- 1 G = 1024 M
 
 
 
