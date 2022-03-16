@@ -45,6 +45,8 @@ public class Hello{
 Then open cmd, change path to the location of Hello.java, run command: javac Hello.java.
 If no error generated, then run java Hello, the cmd will print "Hello World!" on the screen.
 
+## Install IDEA
+[down IDEA](https://www.jetbrains.com/)
 
 
 
