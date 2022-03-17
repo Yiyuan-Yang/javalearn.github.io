@@ -119,7 +119,38 @@ public class data_type {
 - 1 M = 1024 KB
 - 1 G = 1024 M
 
+### data_type expand
 
+**Note: avoid doing comparision with float**
+
+```java
+public class data_type_improve {
+    public static void main(String[] args) {
+        //integer:   binary0b   decimal system   Octal number system(0)     Hexadecimal(0x)
+        int n1 = 10;
+        int n2 = 010; // octal number system
+        int n3 = 0x10; // hexadecimal
+
+        System.out.println(n1);
+        System.out.println(n2);
+        System.out.println(n3);
+
+        // floating
+        //float
+        float f = 0.1f; //0.1
+        //double
+        double d = 1.0/10; // 0.1
+        System.out.println(f);
+        System.out.println(d);
+        System.out.println(f == d); // return false
+
+        float f2 = 91919191919191991919f;
+        float f3 = f2+1;
+        System.out.println(f2 == f3); // return true
+    }
+}
+
+```
 
 
 
