@@ -147,6 +147,27 @@ public class data_type_improve {
         float f2 = 91919191919191991919f;
         float f3 = f2+1;
         System.out.println(f2 == f3); // return true
+	
+	// char
+        char c1 = 'Y';
+        char c2 = 'I';
+        System.out.println(c1);
+        System.out.println(c2);
+        // ASCII, Unicode
+        System.out.println((int)c1); // return 89
+        System.out.println((int)c2); // return 73
+        int num1 = 97;
+        System.out.println((char)num1); // return a
+        // unicode: eg: U0000 UFFFF
+        char c3 = '\u0061';
+        System.out.println(c3); // return a
+
+        // escape character: \t, \n
+        System.out.println("Hello\tWorld!"); // return Hello	World!
+        System.out.println("Hello\nWorld");
+
+        // boolean
+        boolean b1 = true;
     }
 }
 
