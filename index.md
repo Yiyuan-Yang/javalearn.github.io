@@ -173,6 +173,57 @@ public class data_type_improve {
 
 ```
 
+### data type convert
+
+```java
+public class convert {
+    public static void main(String[] args) {
+        int i = 128;
+        double b= i;
+        //byte b = (byte)i;
+
+        System.out.println(i);
+        System.out.println(b);
+
+        /*
+        1. cannot convert boolean
+        2. cannot convert to other data type
+        3. from large to small
+        4. may cause memory overflow
+        */
+
+        System.out.println((int)23.7); //23
+        System.out.println((int)-45.89f); // -45
+
+        char c = 'a';
+        int d = c+1;
+        System.out.println(d); // 98
+        System.out.println((char)d); //d
+    }
+}
+
+```
+
+```java
+public class convert2 {
+    public static void main(String[] args) {
+        // large number
+        int money = 10_0000_0000;
+        System.out.println(money);
+        int years = 20;
+        int total = money * years;
+        System.out.println(total); // overflow
+        long total2 = money*years; //default integer, after calculate then convert to long
+
+        long total3 = money*((long)years); // convert one number firstly
+        System.out.println(total3);
+        
+        // L
+        
+    }
+}
+
+```
 
 
 
